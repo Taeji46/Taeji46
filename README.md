@@ -1,4 +1,9 @@
-### Hi there 👋
+## 使用言語
+Swift, Java, JavaScript
+
+## プロジェクト
+### Noti2me: 授業管理アプリ (iOS)
+https://github.com/Taeji46/Timetable-with-SwiftData
 
 <!--
 **Taeji46/Taeji46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
