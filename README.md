@@ -6,12 +6,14 @@ SwiftUIでiOSアプリ開発を勉強しています．
       
   ![no2app](https://github.com/Taeji46/Taeji46/assets/107469797/b791a5f9-1e16-43f3-aca9-5063c89457df)
 ## 主な使用言語
-- Java
 - Swift
+- Java  
+- JavaScript / TypeScript
 ## 技術経験
 ### スマートフォン・PCアプリ開発
 - **Xcode** (Swift, SwiftUI, SwiftData)
 - **Android Studio** (Java)
+- **Electron** (TypeScript, React.js, Node.js)
 
 ### Webアプリ開発
 - **Firebase** (JavaScript, Firebase Realtime Database)
