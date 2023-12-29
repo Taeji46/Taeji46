@@ -14,9 +14,11 @@ SwiftUIでiOSアプリ開発を勉強しています．
 - JavaScript
 - TypeScript
 ## 技術経験
-### スマートフォン・PCアプリ開発
+### モバイルアプリ開発
 - **Xcode** (Swift, SwiftUI, SwiftData)
 - **Android Studio** (Java)
+
+### デスクトップアプリ開発
 - **Electron** (TypeScript, React.js, Node.js)
 
 ### Webアプリ開発
