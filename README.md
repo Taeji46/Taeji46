@@ -19,7 +19,7 @@ SwiftUIでiOSアプリ開発を勉強しています．
 - **Android Studio** (Java)
 
 ### デスクトップアプリ開発
-- **Electron** (TypeScript, React.js, Node.js)
+- **Electron** (TypeScript, React)
 
 ### Webアプリ開発
 - **Firebase** (JavaScript, Firebase Realtime Database)
