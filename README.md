@@ -1,4 +1,4 @@
-# Taeji46
+# PORTFOLIO
 SwiftUIでiOSアプリ開発を勉強しています．
 ## プロジェクト
 ### [Noti2me: 授業管理アプリ (iOS)](https://github.com/Taeji46/Timetable-with-SwiftData) 
