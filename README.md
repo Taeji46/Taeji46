@@ -15,7 +15,6 @@ SwiftUIでiOSアプリ開発を勉強しています．
 ## 主な使用言語
 - Swift
 - Java  
-- JavaScript
 - TypeScript
 ## 技術経験
 ### モバイルアプリ開発
