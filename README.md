@@ -1,5 +1,5 @@
 # About Me
-SwiftUIでiOSアプリ開発を勉強しています．
+アプリ開発を勉強しています．
 ## プロジェクト
 ### [Noti2me: 授業管理アプリ (iOS)](https://github.com/Taeji46/Timetable-with-SwiftData) 
   App Store : [Noti2me - 時間割](https://apps.apple.com/jp/app/noti2me-%E6%99%82%E9%96%93%E5%89%B2/id6474107092) (2023/12/14~)  
