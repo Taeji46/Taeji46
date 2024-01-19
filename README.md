@@ -14,12 +14,13 @@
   
 ## 主な使用言語
 - Swift
-- Java  
+- Java
+- JavaScript
 - TypeScript
 ## 技術経験
 ### モバイルアプリ開発
 - **SwiftUI**
-- **Android** (Java)
+- **Android Java**
 
 ### デスクトップアプリ開発
 - **Electron** (TypeScript, React.js)
