@@ -26,8 +26,8 @@
 - **Electron** (TypeScript, React.js)
 
 ### Webアプリ開発
-- **Firebase** (JavaScript)
+- **Firebase**
 - **Ruby on Rails**
-- **React**
+- **React.js**
 
 
