@@ -29,5 +29,6 @@
 - **Firebase**
 - **Ruby on Rails**
 - **React.js**
+- **Next.js**
 
 
