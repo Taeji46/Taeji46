@@ -23,8 +23,7 @@
 - **Android Java**
 
 ### デスクトップアプリ開発
-- **Electron** (TypeScript, React.js)
-
+- **Electron**  
 ### Webアプリ開発
 - **Firebase**
 - **Ruby on Rails**
