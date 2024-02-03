@@ -14,9 +14,9 @@
   
 ## 主な使用言語
 - Swift
-- Java
-- JavaScript
 - TypeScript
+- Java
+
 ## 技術経験
 ### モバイルアプリ開発
 - **SwiftUI**
