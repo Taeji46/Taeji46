@@ -18,13 +18,9 @@
 - Java
 
 ## 技術経験
-### モバイルアプリ開発
 - **SwiftUI**
 - **Android Java**
-
-### デスクトップアプリ開発
 - **Electron**  
-### Webアプリ開発
 - **Firebase**
 - **Ruby on Rails**
 - **React.js**
