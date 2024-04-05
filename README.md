@@ -17,7 +17,7 @@
 - TypeScript
 - Java
 
-## 技術経験
+## 使用技術
 - **SwiftUI**
 - **Android Java**
 - **Electron**  
