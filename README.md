@@ -6,18 +6,12 @@
       
   ![no2app](https://github.com/Taeji46/Taeji46/assets/107469797/b791a5f9-1e16-43f3-aca9-5063c89457df)
   
-## 主な使用言語
+## よく使う言語
 - Swift
 - TypeScript
-- Java
+- Python
 
 ## 使用技術
 - **SwiftUI**
-- **Android Java**
-- **Electron**  
-- **Firebase**
-- **Ruby on Rails**
-- **React.js**
 - **Next.js**
-
-
+- **Firebase**
