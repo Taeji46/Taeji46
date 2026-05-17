@@ -2,14 +2,15 @@
 
 - 🎓 情報系大学院生  
   Graduate Student in Computer Science
-- 🔬 ナレッジグラフ × LLM の融合領域を研究  
-  Researching at the intersection of Knowledge Graphs and LLMs
+- 🔬 ナレッジグラフと大規模言語モデルの融合領域を研究  
+  Researching the intersection of Knowledge Graphs and Large Language Models
 - 💻 iOSアプリケーション開発  
   iOS Application Development
 
 ## Tech Stack
-- **Research:** Python, SPARQL, RDF/RDFS, LLM
-- **Mobile:** Swift, JavaScript
+
+- **Research:** Python, SPARQL, RDF/RDFS
+- **Development:** Swift, SwiftUI, JavaScript, Firebase
 
 ## Research
 
