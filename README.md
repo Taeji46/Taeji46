@@ -9,8 +9,9 @@
 
 ## Tech Stack
 
-- **Research:** Python, SPARQL, RDF/RDFS
-- **Development:** Swift, SwiftUI, JavaScript, Firebase
+![Tech Stack](https://skillicons.dev/icons?i=python,swift,js,ts,java,firebase)
+
+
 
 ## Research
 
