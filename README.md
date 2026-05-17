@@ -11,6 +11,34 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,c,java,js,ts,swift,nextjs,nodejs,firebase)
 
+## Awards & Publications
+
+### Awards
+
+- **2025年度 人工知能学会全国大会 学生奨励賞**（第39回・オーガナイズドセッション口頭発表部門）  
+  Student Encouragement Award, Japanese Society for Artificial Intelligence Annual Conference 2025
+
+- **2025年度 人工知能学会 研究会優秀賞**  
+  Research Group Excellence Award, Japanese Society for Artificial Intelligence, 2025
+
+### International Conference
+
+- Taichi Hosokawa, Sudesna Chakraborty, Takeshi Morita.  
+  **"Assessing Logical Inference Capabilities of Large Language Models through RDF Schema Entailment Rules: A Multi-Level Evaluation"**  
+  *ISWC-C 2025 (Poster & Demo Track)*, pp. 304–308, November 2025.
+
+### Domestic Conferences & Workshops
+
+- 細川泰智, シュデシナ チャクラボルティ, 森田武史.  
+  「RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の段階的評価」  
+  *人工知能学会 SIG-SWO-066*, 2025年9月.
+
+- 細川泰智, 森田武史.  
+  「RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の評価」  
+  *人工知能学会全国大会 第39回*, 2025年5月.
+
+
+
 ## Research
 
 ### [RDFS-LLM-Bench](https://github.com/Taeji46/RDFS-LLM-Bench-ISWC2026)
