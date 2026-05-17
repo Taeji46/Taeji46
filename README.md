@@ -9,9 +9,7 @@
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,swift,js,ts,java,firebase)
-
-
+![Tech Stack](https://skillicons.dev/icons?i=python,c,java,js,ts,swift,nextjs,nodejs,firebase)
 
 ## Research
 
