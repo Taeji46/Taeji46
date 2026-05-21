@@ -48,7 +48,7 @@ Includes an automatically generated dataset from LOD sources and a zero-shot eva
 
 ## Products
 
-### [StuDOR](https://testflight.apple.com/join/FhGK27BF)
+### [StuDOR]([https://testflight.apple.com/join/FhGK27BF](https://studor-a175e.web.app/))
 
 勉強習慣をサポートするiOSソーシャル学習アプリ。  
 集中ルーム、学習記録、参考書管理、タイムライン共有、ストーリー形式の活動表示機能を搭載。
