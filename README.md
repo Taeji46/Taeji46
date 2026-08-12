@@ -33,7 +33,7 @@
 
 ## Research
 
-### [RDFS-LLM-Bench](https://github.com/Taeji46/RDFS-LLM-Bench-ISWC2026)
+### [RDFS-LLM-Bench](https://github.com/Taeji46/RDFS-LLM-Bench)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Taeji46/RDFS-LLM-Bench-ISWC2026/blob/main/LICENSE)
 [![Data: CC BY-SA 4.0](https://img.shields.io/badge/Data-CC%20BY--SA%204.0-lightblue.svg)](https://github.com/Taeji46/RDFS-LLM-Bench-ISWC2026/blob/main/LICENSE-DATA)
