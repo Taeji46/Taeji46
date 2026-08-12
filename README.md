@@ -6,6 +6,8 @@
   Researching the intersection of Knowledge Graphs and Large Language Models
 - 💻 iOSアプリケーション開発  
   iOS Application Development
+- 🌐 ポートフォリオサイト  
+  Portfolio: [taeji46.github.io](https://taeji46.github.io)
 
 ## Tech Stack
 
