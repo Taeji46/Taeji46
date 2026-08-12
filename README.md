@@ -20,9 +20,12 @@
 - **2025年度 人工知能学会 研究会優秀賞**  
   Research Group Excellence Award, Japanese Society for Artificial Intelligence, 2025
 
-### International Conference
+### International Conferences
+- **"RDFS-LLM-Bench: A Benchmark for Evaluating RDF Schema Inference in LLMs"**  
+  *ISWC 2026 (Resource Track)*, to appear.
+
 - **"Assessing Logical Inference Capabilities of Large Language Models through RDF Schema Entailment Rules: A Multi-Level Evaluation"**  
-  *ISWC-C 2025 (Poster & Demo Track)*, pp. 304–308, November 2025.
+  *ISWC 2025 (Poster & Demo Track)*, pp. 304–308, November 2025.
 
 ### Domestic Conferences & Workshops
 - 「RDFスキーマ推論規則を対象とした大規模言語モデルの推論能力の段階的評価」  
@@ -35,12 +38,13 @@
 
 ### [RDFS-LLM-Bench](https://github.com/Taeji46/RDFS-LLM-Bench)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Taeji46/RDFS-LLM-Bench-ISWC2026/blob/main/LICENSE)
-[![Data: CC BY-SA 4.0](https://img.shields.io/badge/Data-CC%20BY--SA%204.0-lightblue.svg)](https://github.com/Taeji46/RDFS-LLM-Bench-ISWC2026/blob/main/LICENSE-DATA)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Taeji46/RDFS-LLM-Bench/blob/main/LICENSE)
+[![Data: CC BY-SA 4.0](https://img.shields.io/badge/Data-CC%20BY--SA%204.0-lightblue.svg)](https://github.com/Taeji46/RDFS-LLM-Bench/blob/main/LICENSE-DATA)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19867258.svg)](https://doi.org/10.5281/zenodo.19867258)
 
 A benchmark for evaluating how well LLMs can reason over RDFS entailment rules.
 Includes an automatically generated dataset from LOD sources and a zero-shot evaluation pipeline.
+Accepted at ISWC 2026 (Resource Track).
 
 - 6 RDFS entailment rules × multiple dataset variants
 - Supports OpenAI Batch, OpenAI-compatible APIs, and Ollama
@@ -62,4 +66,4 @@ Includes an automatically generated dataset from LOD sources and a zero-shot eva
 大学の授業管理iOSアプリ。  
 2023年12月リリース。
 
-<img width="600" alt="StuDOR" src="https://github.com/Taeji46/Taeji46/assets/107469797/b791a5f9-1e16-43f3-aca9-5063c89457df" />
+<img width="600" alt="Noti2me" src="https://github.com/Taeji46/Taeji46/assets/107469797/b791a5f9-1e16-43f3-aca9-5063c89457df" />
